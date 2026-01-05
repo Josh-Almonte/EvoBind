@@ -90,7 +90,8 @@ If you use EvoBind in your research, please cite
 [Li, Q., Vlachos, E.N. & Bryant, P. Design of linear and cyclic peptide binders from protein sequence information. Commun Chem 8, 211 (2025). https://doi.org/10.1038/s42004-025-01601-3](https://www.nature.com/articles/s42004-025-01601-3)
 
 # Examples of studies with EvoBind
-1. [Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, Bryant P. Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. 2025. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1)
+1. [Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, Bryant P. Single-shot design of a cyclic peptide inhibitor of HIV membrane fusion, Antiviral Research,
+Volume 246, 2026](https://www.sciencedirect.com/science/article/pii/S0166354225002621)
 2. [Li Q, Wiita E, Helleday T, Bryant P. Blind De Novo Design of Dual Cyclic Peptide Agonists Targeting GCGR and GLP1R. bioRxiv. 2025. p. 2025.06.06.658268. doi: https://doi.org/10.1101/2025.06.06.658268](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
 
 # The EvoBind ecosystem
